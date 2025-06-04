@@ -1,29 +1,21 @@
 ---
-title: Festival Laberinto-Primera edición (2021)
-description: Sobre la primera edición del festival laberinto
+title: Festival Laberinto - Primera edición (2021)
+description: Sobre la primera edición del festival laberinto, que tuvo lugar en el 2021, contó con varias participaciones y estuvo muy buena.
 author: Néstor Espitia
 date: 2025-09-01
 tags:
   - Experiencia en Festivales
   - center
   - right
-featuredImage:
-  type: ImageBlock
-  url: /images/cartel.png
-  altText: Post thumbnail image
-media:
-  url: /images/cartel.png
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
-  type: ImageBlock
+image: /images/bg11.jpg
+imageAlt: Sextant
 ---
 
 ## Primera edición (2021)
 
 <p style='text-align: justify;'> Esta fue la primera edición del Festival Laberinto, un proyecto curatorial que marcó mi ingreso al campo de la programación cinematográfica. Asumí el rol de curador principal con la intuición como principal herramienta y la convicción de que en los circuitos alternativos de producción cinematográfica de Colombia cada año emergen propuestas de enorme riqueza y diversidad. Aunque fue un reto, también fue una oportunidad para explorar con libertad y construir programas sólidos, abiertos a múltiples sensibilidades. Desde entonces, empecé a perfilar algunas de las líneas centrales del festival: la experimentación formal, la investigación social y ciertas vertientes de la ficción con potentes divergencias estéticas y formales. Este primer ejercicio dio cabida a cortometrajes que se volverían emblemáticos, como Todo es culpa de la sal, o a trabajos iniciales de cineastas que hoy tienen una presencia consolidada, como Jerónimo Atehortúa (Reconstrucción) o Theo Montoya (Son of Sodom), este último una suerte de preludio de su ópera prima ANHELL69. Pensando tanto en cinéfilos como en programadores, incluyo aquí enlaces a los trailers o versiones completas de los cortos, extraídos directamente de páginas oficiales de los realizadores o distribuidoras, con el fin de facilitar el contacto con lxs autorxs. Los rastros de algunos de los trabajos que seleccioné para esta primera edición lamentablemente ya no se encuentran en línea, por lo que no pude poner ningún enlace.</p>
 
-![text](_site/images/cartel.png)
+![text](/images/cartel.png)
 
 ## Sombras en latencia:
 

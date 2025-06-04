@@ -3,6 +3,14 @@ const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 
+// Featured Image
+
+    module.exports = function(eleventyConfig) {
+        eleventyConfig.addShortcode("featuredImage", (imagePath, altText) => {
+            return `<img src="${imagePath}" alt="${altText}" class="featured-image">`;
+        });
+    };
+
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);

@@ -2,6 +2,7 @@
 layout: blog
 ---
 
+
 <section class="mt-15">
     {% set postslist = collections.post %}
 
@@ -29,10 +30,18 @@ layout: blog
                     {{ post.data.description }}
                 </p>
             {% endif %}
+               <!--Main Article Image-->
+               <picture class="blog-mainImage">
+               <img
+                src="{{ post.data.image }}"
+                alt="{{ post.data.imageAlt }}"
+                width="795"
+                height="400"
+                decoding="async"/>
 
             <p>
                 <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
-                    Read more →
+                    Leer más →
                 </a>
             </p>
 
