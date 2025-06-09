@@ -2,8 +2,6 @@
 items:
   - text: Portafolio
     url: "/index.html"
-  - text: Sobre mí
-    url: "/About"
   - text: Contacto
     url: "/Contacto"
   - text: Blog

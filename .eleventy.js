@@ -43,6 +43,12 @@ module.exports = function (eleventyConfig) {
   // Copy Image Folder to /_site
   eleventyConfig.addPassthroughCopy("./src/static/img");
 
+  // Copy favicon Folder to /_site
+  eleventyConfig.addPassthroughCopy("./src/static/icomoon");
+
+  // Copy bootsrap Folder to /_site
+  eleventyConfig.addPassthroughCopy("./src/static/bootstrap");
+
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
 

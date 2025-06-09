@@ -5,10 +5,8 @@ author: Néstor Espitia
 date: 2025-09-01
 tags:
   - Experiencia en Festivales
-  - center
-  - right
 image: /images/bg11.jpg
-imageAlt: Sextant
+imageAlt: Festival Laberinto
 ---
 
 ## Primera edición (2021)
@@ -22,9 +20,9 @@ imageAlt: Sextant
 <p style='text-align: justify;'> 
 Este conjunto de obras parece invocar, inadvertida, a la voz subterránea de un fantasma. Los ecos de una presencia sepultada por el trauma y la ausencia reverberan en tonos dramáticos, sensoriales, ceremoniales. Los escenarios remotos de una geografía resquebrajada por la violencia, el despojo o el olvido se disponen aquí en un mosaico de registros en los que los rastros del pasado entran en tensión con el porvenir.</p>
 
-- Tierra al viento (Juan Restrepo Molina). [Enlace](https://www.youtube.com/watch?v=a0DAWeJ1hp0&ab_channel=Doc%3Aco-Elrugidodelcinelatinoamericano)
-- Adriana (Antonio José Meza): Enlace
-- El Remanso (Sebastián Valencia) Enlace
+- Tierra al viento (Juan Restrepo Molina).<a href="https://www.youtube.com/watch?v=a0DAWeJ1hp0&ab_channel=Doc%3Aco-Elrugidodelcinelatinoamericano" target="_blank">Enlace</a>
+- Adriana (Antonio José Meza):[Enlace](https://www.youtube.com/watch?v=a0DAWeJ1hp0target="_blank")
+- El Remanso (Sebastián Valencia) <a href="https://www.youtube.com/watch?v=a0DAWeJ1hp0&ab_channel=Doc%3Aco-Elrugidodelcinelatinoamericano" target="_blank">Enlace</a>
 - Yóver (Édison Sánchez) Enlace
 - Lumbalú, agonía (Jorge Pérez) Enlace
 - Ejercicios de olvido (Sandra Pulido)
