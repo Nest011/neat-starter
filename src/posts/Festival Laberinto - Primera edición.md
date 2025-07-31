@@ -1,8 +1,8 @@
 ---
-title: Festival Laberinto - Primera edición (2021)
+title: Festival Laberinto - Primera edición (2022)
 description: Sobre la primera edición del festival laberinto, que tuvo lugar en el 2021, contó con varias participaciones y estuvo muy buena.
 author: Néstor Espitia
-date: 2025-09-01
+date: 2025-07-30
 tags:
   - Experiencia en Festivales
 image: /images/bg11.jpg

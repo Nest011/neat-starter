@@ -1,13 +1,15 @@
 ---
 title: Entrevista Diana Bustamante 
 description: Entrevista con Diana Bustamante, productora y asesora de largometrajes, cortometrajes, documentales y comerciales, entre otros.
-date: 2020-09-02
+date: 2025-07-30
 author: Néstor Espitia
 tags:
   - Entrevistas
 image: /static/img/DianaBustamante.jpg
 imageAlt: Diana Bustamante
 ---
+
+<link rel = "stylesheet" href = "/./css/blog.css">
 
 En esta entrevista conversé con Diana Bustamante sobre producción creativa, traumas nacionales y cartas de amor, a propósito de los años de gestión que tuvo como productora de Memoria, la primera película concebida, escrita y producida fuera de Tailandia por el gran cineasta Apichatpong Weerasethakul.
 
@@ -18,6 +20,4 @@ En esta entrevista conversé con Diana Bustamante sobre producción creativa, tr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7L7ls7i-Seo?si=4Llfk6NvOmd4yf_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<a href="{{ '/posts/my-first-post/' | url }}">First post</a>
-<a href="{{ '/posts/my-third-big-post/' | url }}">Third post</a>
 

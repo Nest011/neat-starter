@@ -1,0 +1,14 @@
+ iframe {
+        display: block; /* Treat the iframe as a block-level element */
+        width: 80%; /* Example width, adjust as needed */
+        margin-left: auto; /* Automatic margin on the left */
+        margin-right: auto; /* Automatic margin on the right */
+        /* Alternatively, use the shorthand: margin: 0 auto; */
+    }
+
+img {
+  display: block; /* Makes the image a block-level element */
+  margin: 0 auto; /* Centers the block-level element horizontally */
+  max-width: 80%; /* Sets the maximum width of the image to 80% of its parent */
+  height: auto; /* Maintains the image's aspect ratio */
+}
