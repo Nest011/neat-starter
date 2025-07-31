@@ -5,7 +5,7 @@ date: 2025-07-30
 author: Néstor Espitia
 tags: 
   - Experiencia en Festivales
-image: /images/cartel.png
+image: /static/img/cartel.png
 imageAlt: Festival Laberinto
 ---
 
