@@ -1,8 +1,8 @@
 ---
 title: Festival Laberinto - Tercera edición (2023)
-description: Tercera edición del festival
-date: 2025-07-30
+description: "-"
 author: Néstor Espitia
+date: 2025-07-30
 tags: Experiencia en Festivales
 image: /images/bg1.jpg
 imageAlt: Festival Laberinto
@@ -50,7 +50,7 @@ Navegar la gruta de la palabra, tender puentes hacia los otros, fracasar y tende
 
 * *Pensándote* (Rosman Serrano)
 
-* *Uninhabited transitional* (Christian León)
+* *Uninhabited transitional spaces* (Christian León)
 
 * *El caminante* (Inti Jacanamijoy)
 
