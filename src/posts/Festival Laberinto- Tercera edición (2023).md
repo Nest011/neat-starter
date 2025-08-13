@@ -4,7 +4,7 @@ description: Tercera edición del festival
 date: 2025-07-30
 author: Néstor Espitia
 tags: Experiencia en Festivales
-image: /images/bg1.jpg
+image: /static/img/cartel2023.jpg
 imageAlt: Festival Laberinto
 ---
 
