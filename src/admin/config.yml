@@ -6,7 +6,7 @@ backend:
   # name: github
   # repo: surjithctly/neat-starter
 media_folder: "src/static/img"
-public_folder: "//static/img"
+public_folder: "/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
@@ -24,8 +24,8 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - {label: "Featured Image", name: "featured_image", widget: "image", media_folder: "static/img"}
-      - {label: "Image Alt Text", name: "alt_text", widget: "string"} # You can add a field for alt text
+      - {label: "Featured Image", name: "featured_image", widget: "image", media_folder: "/static/img"}
+      - {label: "Image Alt Text", name: "alt_text", widget: "string"}
       - widget: select
         label: "tags"
         name: "tags"
