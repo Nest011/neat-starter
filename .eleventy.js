@@ -5,7 +5,6 @@ const htmlmin = require("html-minifier");
 
 
 // Featured Image
-
     module.exports = function(eleventyConfig) {
         eleventyConfig.addShortcode("featuredImage", (imagePath, altText) => {
             return `<img src="${imagePath}" alt="${altText}" class="featured-image">`;
