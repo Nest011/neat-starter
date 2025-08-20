@@ -24,6 +24,8 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {label: "Featured Image", name: "thumbnail", widget: "image"} # This is the image field
+      - {label: "Image Alt Text", name: "alt_text", widget: "string"} # You can add a field for alt text
       - widget: select
         label: "tags"
         name: "tags"
