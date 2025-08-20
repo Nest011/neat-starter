@@ -24,7 +24,7 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - {label: "Featured Image", name: "featured_image", widget: "image", media_folder: "/static/img"}
+      - {label: "Featured Image", name: "featured_image", widget: "image"}
       - {label: "Image Alt Text", name: "alt_text", widget: "string"}
       - widget: select
         label: "tags"
