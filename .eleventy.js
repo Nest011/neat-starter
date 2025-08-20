@@ -3,6 +3,13 @@ const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 
+
+// Ensure Leading Slash Filter
+eleventyConfig.addFilter("ensureLeadingSlash", function(path) {
+  if (!path) return "";
+  return path.startsWith("/") ? path : "/" + path;
+});
+
 // Featured Image
 
     module.exports = function(eleventyConfig) {
