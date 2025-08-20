@@ -4,18 +4,17 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 
 
-// Ensure Leading Slash Filter
-eleventyConfig.addFilter("ensureLeadingSlash", function(path) {
-  if (!path) return "";
-  return path.startsWith("/") ? path : "/" + path;
-});
-
 // Featured Image
 
     module.exports = function(eleventyConfig) {
         eleventyConfig.addShortcode("featuredImage", (imagePath, altText) => {
             return `<img src="${imagePath}" alt="${altText}" class="featured-image">`;
         });
+  // Add a filter to prepend a leading slash to paths
+  eleventyConfig.addFilter("prependSlash", function(path) {
+    if (!path) return "";
+    return path.startsWith("/") ? path : "/" + path;
+  });
   
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
