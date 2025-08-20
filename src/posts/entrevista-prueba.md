@@ -7,5 +7,6 @@ thumbnail: /static/img/32202569387_1b57e76aab_z.jpg
 alt_text: "milagros "
 tags:
   - Entrevistas
+  - Otros
 ---
 Hola testigo
