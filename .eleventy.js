@@ -9,9 +9,7 @@ const htmlmin = require("html-minifier");
         eleventyConfig.addShortcode("featuredImage", (imagePath, altText) => {
             return `<img src="${imagePath}" alt="${altText}" class="featured-image">`;
         });
-    };
-
-module.exports = function (eleventyConfig) {
+  
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 
