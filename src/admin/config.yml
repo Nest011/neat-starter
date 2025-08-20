@@ -6,7 +6,7 @@ backend:
   # name: github
   # repo: surjithctly/neat-starter
 media_folder: "src/static/img"
-public_folder: "/static/img"
+public_folder: "_site/static/img"
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
@@ -31,7 +31,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "Entrevistas"]
+        options: ["Tags", "Videoensayo", "Experiencia en Festivales", "Entrevistas", "Critica", "Otros",]
   - label: "Settings"
     name: "settings"
     editor:
