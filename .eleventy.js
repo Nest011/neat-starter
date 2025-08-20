@@ -10,11 +10,6 @@ const htmlmin = require("html-minifier");
         eleventyConfig.addShortcode("featuredImage", (imagePath, altText) => {
             return `<img src="${imagePath}" alt="${altText}" class="featured-image">`;
         });
-  // Add a filter to prepend a leading slash to paths
-  eleventyConfig.addFilter("prependSlash", function(path) {
-    if (!path) return "";
-    return path.startsWith("/") ? path : "/" + path;
-  });
   
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);

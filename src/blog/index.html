@@ -33,12 +33,11 @@ layout: blog
                <!--Main Article Image-->
                <picture class="blog-mainImage">
                <img
-                src="{{ (post.data.featured_image or post.data.image) | ensureLeadingSlash }}"
+                src="/{{ post.data.featured_image or post.data.image }}"
                 alt="{{ post.data.alt_text or post.data.imageAlt }}"
                 width="795"
                 height="400"
                 decoding="async"/>
-
             <p>
                 <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
                     Leer más →
